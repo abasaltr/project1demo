@@ -1,4 +1,4 @@
-print ("Hello World")
+print ("Hello Planet")
 
 print("Hello from group 1")
 
